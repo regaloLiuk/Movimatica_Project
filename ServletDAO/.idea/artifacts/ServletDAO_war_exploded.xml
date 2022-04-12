@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ServletDAO:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/ServletDAO_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ServletDAO" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Movimatica" />
+          <element id="library" level="project" name="taglibs-standard-impl-1.2.5" />
+          <element id="library" level="project" name="taglibs-standard-spec-1.2.5" />
+          <element id="library" level="project" name="commons-fileupload-1.4" />
+          <element id="library" level="project" name="commons-io-2.6" />
+          <element id="library" level="project" name="postgresql-9.2-1002.jdbc3" />
+          <element id="library" level="project" name="json-simple-1.1.1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="ServletDAO/web/Web" />
+    </root>
+  </artifact>
+</component>

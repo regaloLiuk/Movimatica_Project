@@ -1,0 +1,28 @@
+<!-- Per Tomcat 9, che supporta fino alle Servlet Specification 4.0 -->
+<web-app version="4.0" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd">
+  <servlet>
+    <servlet-name>FrontControllerServlet</servlet-name>
+    <servlet-class>com.movimatica.jmg.web.FrontControllerServlet</servlet-class>
+    <init-param>
+      <param-name>commandClassPattern</param-name>
+      <param-value>com.movimatica.jmg.web.commands.%sCommand</param-value>
+    </init-param>
+    <init-param>
+      <param-name>forwardRoot</param-name>
+      <param-value>/WEB-INF/jsp/%s.jsp</param-value>
+    </init-param>
+    <init-param>
+      <param-name>errorPath</param-name>
+      <param-value>error</param-value>
+    </init-param>
+    <init-param>
+      <param-name>defaultIndex</param-name>
+      <param-value>index</param-value>
+    </init-param>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>FrontControllerServlet</servlet-name>
+    <url-pattern>/web/*</url-pattern>
+  </servlet-mapping>
+
+</web-app>

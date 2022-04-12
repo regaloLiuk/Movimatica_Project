@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Movimatica">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/Movimatica.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

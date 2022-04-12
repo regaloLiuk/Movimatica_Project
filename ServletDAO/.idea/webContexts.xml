@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/jmg/accessory/page_modify.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/jmg/accessory" />
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/jmg/calculator/page_select_ballast.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/jmg/calculator" />
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/jmg/calculator/page_select_family.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/jmg/calculator" />
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/jmg/family/page_add.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/jmg/family" />
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/jmg/machine/page_details.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/jmg/machine" />
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/jmg/machine/page_modify_accessory.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/jmg/machine" />
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/jmg/machine/page_show.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/jmg/machine" />
+        <entry key="file://$PROJECT_DIR$/WebContent/index.jsp" value="file://$PROJECT_DIR$/WebContent" />
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Java EE 6-Java EE 6">
+    <archive path="C:/Users/olive/Desktop/ServletDAO/lib/javax.resource.jar" />
+    <archive path="C:/Users/olive/Desktop/ServletDAO/lib/javax.transaction.jar" />
+    <archive path="C:/Users/olive/Desktop/ServletDAO/lib/javax.jms.jar" />
+    <archive path="C:/Users/olive/Desktop/ServletDAO/lib/javax.annotation.jar" />
+    <archive path="C:/Users/olive/Desktop/ServletDAO/lib/javax.servlet.jsp.jar" />
+    <archive path="C:/Users/olive/Desktop/ServletDAO/lib/javax.servlet.jar" />
+    <archive path="C:/Users/olive/Desktop/ServletDAO/lib/javax.ejb.jar" />
+    <archive path="C:/Users/olive/Desktop/ServletDAO/lib/javax.persistence.jar" />
+  </library>
+  <library name="Movimatica">
+    <archive path="C:/Users/olive/Desktop/ServletDAO/WebContent/WEB-INF/lib/Movimatica.jar" />
+  </library>
+  <library name="commons-fileupload-1.4">
+    <archive path="C:/Users/olive/Desktop/ServletDAO/WebContent/WEB-INF/lib/commons-fileupload-1.4.jar" />
+  </library>
+  <library name="commons-io-2.6">
+    <archive path="C:/Users/olive/Desktop/ServletDAO/WebContent/WEB-INF/lib/commons-io-2.6.jar" />
+  </library>
+  <library name="postgresql-42.2.18">
+    <archive path="C:/Users/olive/Desktop/ServletDAO/WebContent/WEB-INF/lib/postgresql-42.2.18.jar" />
+  </library>
+  <library name="taglibs-standard-impl-1.2.5">
+    <archive path="C:/Users/olive/Desktop/ServletDAO/WebContent/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" />
+  </library>
+  <library name="taglibs-standard-spec-1.2.5">
+    <archive path="C:/Users/olive/Desktop/ServletDAO/WebContent/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" />
+  </library>
+</eclipse-userlibraries>
+
